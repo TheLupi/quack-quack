@@ -5,8 +5,8 @@
 // @description  Sistema Central de Login e Gestão de Plugins Sniper Pro.
 // @author       4deevs
 // @match        *://*.tribalwars.com.pt/*
-// @updateURL    https://tww.theredtv.xyz/coder/scripts_final/tw_main.js
-// @downloadURL  https://tww.theredtv.xyz/coder/scripts_final/tw_main.js
+// @updateURL    https://github.com/TheLupi/quack-quack/blob/main/main.js
+// @downloadURL  https://github.com/TheLupi/quack-quack/blob/main/main.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
