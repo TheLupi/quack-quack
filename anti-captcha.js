@@ -6,8 +6,8 @@
 // @author       Sniper Pro
 // @match        *://*.tribalwars.com.pt/*
 // @match        *://*.hcaptcha.com/captcha/*
-// @updateURL    https://github.com/TheLupi/quack-quack/edit/main/captcha.js
-// @downloadURL  https://github.com/TheLupi/quack-quack/edit/main/captcha.js
+// @updateURL    https://github.com/TheLupi/quack-quack/blob/main/anti-captcha.js
+// @downloadURL  https://github.com/TheLupi/quack-quack/blob/main/anti-captcha.js
 // @grant        unsafeWindow
 // @run-at       document-end
 // ==/UserScript==
