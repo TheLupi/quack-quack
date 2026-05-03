@@ -3,7 +3,7 @@
 // @version      2.1
 // @namespace    SniperPro.Global
 // @description  Módulo de proteção contra bots (Plugin Silencioso para o Master Bot)
-// @author       Sniper Pro
+// @author       TheLupi
 // @match        *://*.tribalwars.com.pt/*
 // @match        *://*.hcaptcha.com/captcha/*
 // @updateURL    https://github.com/TheLupi/quack-quack/blob/main/anti-captcha.js
